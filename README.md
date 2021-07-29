@@ -1,7 +1,7 @@
 # DashboardCompose
 Docker-compose project, for running docker-compose images.
 
-run  docker-compse up --build for building and running services, include RabbitMQ image. 
+run  {docker-compse up --build} for building and running services, include RabbitMQ image. 
 
 After running the command on your docker, you can test it with Postman WebSocker.
 
